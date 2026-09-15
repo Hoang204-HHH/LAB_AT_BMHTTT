@@ -1,0 +1,363 @@
+﻿
+===================================================================
+Follow: tcp,ascii
+Filter: tcp.stream eq 0
+Node 0: 192.168.56.1:63866
+Node 1: 192.168.56.10:23
+21
+..... .....'.........
+	21
+..%..&..... ..#..'..$
+3
+..%
+3
+..&
+3
+..#
+3
+..$
+	12
+............
+9
+....P....
+	18
+.. .....'.........
+17
+.. .38400,38400..
+6
+..'...
+11
+....XTERM..
+	12
+.....".....!
+3
+...
+3
+.."
+3
+...
+3
+..!
+	6
+......
+3
+...
+3
+...
+	51
+
+
+Linux 6.8.0-79-generic (ubuntu-srv01) (pts/0)
+
+
+
+
+	20
+ubuntu-srv01 login: 
+1
+h
+	1
+h
+1
+u
+	1
+u
+1
+u
+	1
+u
+1
+h
+	1
+h
+1
+o
+	1
+o
+1
+a
+	1
+a
+1
+n
+	1
+n
+1
+g
+	1
+g
+1
+
+
+	2
+
+
+
+	10
+Password: 
+16
+Bmt@Hoang2026#x
+
+	2
+
+
+
+	67
+Welcome to Ubuntu 24.04.3 LTS (GNU/Linux 6.8.0-79-generic x86_64)
+
+
+	1078
+
+
+ * Documentation:  https://help.ubuntu.com
+
+ * Management:     https://landscape.canonical.com
+
+ * Support:        https://ubuntu.com/pro
+
+
+
+ System information as of Tue Sep 15 08:35:01 AM UTC 2026
+
+
+
+  System load:  0.0                Processes:               219
+
+  Usage of /:   30.1% of 18.53GB   Users logged in:         1
+
+  Memory usage: 9%                 IPv4 address for ens160: 192.168.25.50
+
+  Swap usage:   0%
+
+
+
+ * Canonical Workshop gives developers fast, composable, reproducible, and
+
+   secure developer environments that are perfect for agentic workflows.
+
+
+
+   https://ubuntu.com/workshop
+
+
+
+Expanded Security Maintenance for Applications is not enabled.
+
+
+
+255 updates can be applied immediately.
+
+184 of these updates are standard security updates.
+
+To see these additional updates run: apt list --upgradable
+
+
+
+Enable ESM Apps to receive additional future security updates.
+
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+
+Failed to connect to https://changelogs.ubuntu.com/meta-release-lts. Check your Internet connection or proxy settings
+
+
+
+
+
+
+	8
+.[?2004h
+	54
+.]0;huuhoang@ubuntu-srv01: ~.huuhoang@ubuntu-srv01:~$ 
+2
+..
+	2
+..
+1
+.
+	4
+..[K
+1
+w
+	1
+w
+1
+h
+	1
+h
+1
+o
+	1
+o
+1
+a
+	1
+a
+1
+m
+	1
+m
+1
+u
+	1
+u
+1
+.
+	4
+..[K
+1
+i
+	1
+i
+1
+
+
+	12
+
+
+.[?2004l
+.
+	72
+huuhoang
+
+.[?2004h.]0;huuhoang@ubuntu-srv01: ~.huuhoang@ubuntu-srv01:~$ 
+1
+p
+	1
+p
+2
+..
+	2
+..
+1
+.
+	4
+..[K
+1
+w
+	1
+w
+1
+d
+	1
+d
+1
+
+
+	90
+
+
+.[?2004l
+./home/huuhoang
+
+.[?2004h.]0;huuhoang@ubuntu-srv01: ~.huuhoang@ubuntu-srv01:~$ 
+1
+l
+	1
+l
+1
+s
+	1
+s
+1
+ 
+	1
+ 
+1
+-
+	1
+-
+1
+l
+	1
+l
+1
+a
+	1
+a
+1
+
+
+	2
+
+
+
+	802
+.[?2004l
+.total 40
+
+drwxr-x--- 5 huuhoang huuhoang 4096 Sep 15 07:59 .[0m.[01;34m..[0m
+
+drwxr-xr-x 3 root     root     4096 Aug 28  2025 .[01;34m...[0m
+
+-rw------- 1 huuhoang huuhoang 1045 Sep 15 08:32 .bash_history
+
+-rw-r--r-- 1 huuhoang huuhoang  220 Mar 31  2024 .bash_logout
+
+-rw-r--r-- 1 huuhoang huuhoang 3771 Mar 31  2024 .bashrc
+
+drwx------ 2 huuhoang huuhoang 4096 Aug 28  2025 .[01;34m.cache.[0m
+
+drwxrwxr-x 2 huuhoang huuhoang 4096 Sep 15 07:59 .[01;34mlab1_test.[0m
+
+-rw------- 1 huuhoang huuhoang   20 Sep 15 07:34 .lesshst
+
+-rw-r--r-- 1 huuhoang huuhoang  807 Mar 31  2024 .profile
+
+drwx------ 2 huuhoang huuhoang 4096 Aug 28  2025 .[01;34m.ssh.[0m
+
+-rw-r--r-- 1 huuhoang huuhoang    0 Aug 28  2025 .sudo_as_admin_successful
+
+.[?2004h.]0;huuhoang@ubuntu-srv01: ~.huuhoang@ubuntu-srv01:~$ 
+1
+e
+	1
+e
+1
+.
+	4
+..[K
+3
+...
+	3
+...
+1
+.
+	4
+..[K
+1
+e
+	1
+e
+1
+x
+	1
+x
+1
+u
+	1
+u
+1
+.
+	4
+..[K
+1
+i
+	1
+i
+1
+t
+	1
+t
+1
+
+
+	20
+
+
+.[?2004l
+.logout
+
+
+===================================================================
